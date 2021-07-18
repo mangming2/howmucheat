@@ -1,0 +1,62 @@
+nav{
+    display: flex;
+    justify-content:space-between;    
+    margin: 20 auto;
+    background-color: azure;
+    padding: 0 auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 50px;
+}
+nav span{
+    margin-right: 10px;
+}
+
+body{
+    background-color: antiquewhite;
+    font-family: 'Jua', sans-serif;
+    
+}
+
+
+.recommend{
+  display: flex;
+  
+  justify-content: space-evenly;
+}
+.choose_menu{
+    display: flex;
+    margin: 20px;
+
+}
+
+
+.mt-1{
+    padding-left: 10px;
+}
+
+main{
+    text-align: center;
+}
+
+.human{
+    display: flex;   
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+
+.human span{
+    margin-left: 10px;
+}
+
+
+.calculate{
+    display: flex;
+    justify-content:center;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+#result{
+    margin-top: 10px;
+}
